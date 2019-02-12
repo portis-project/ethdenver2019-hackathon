@@ -52,7 +52,7 @@ We will be looking for DApps created in the Hackathon that have taken our vision
 
 # :hammer_and_wrench: Resources
 
-1. [Portis SDK GitHub](https://github.com/portis-project/portis-sdk) - Instructions on how to embed Portis into your DApp.
+1. [Portis SDK GitHub](https://github.com/portis-project/web-sdk) - Instructions on how to embed Portis into your DApp.
 1. [Portis Documentation](https://docs.portis.io/) - Your guide for all the various useful configurations you have at your disposal when you're developing on Portis.
 1. [UX Guidelines](https://docs.portis.io/#/ux-guidelines) - Building on the blockchain raises new and interesting UX and technical challenges. We put together a list of what we believe to be best practices when building DApps designed to be human-friendly.
 1. [Now](https://zeit.co/now) — Global serverless deployments made simple. Useful for deploying your DApp so all your friends can play around with it! Also, it's a requirement for receiving the "Take 'er for a spin" bounty.
